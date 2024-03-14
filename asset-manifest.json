@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trivia/static/css/main.5e7fa4fe.css",
-    "main.js": "/trivia/static/js/main.0bc0dfc4.js",
-    "static/media/its_quiz_time.jpg": "/trivia/static/media/its_quiz_time.d5abcb56fb1a85f55175.jpg",
-    "static/media/background1.webp": "/trivia/static/media/background1.8a4c692885d6be864af9.webp",
-    "index.html": "/trivia/index.html",
-    "main.5e7fa4fe.css.map": "/trivia/static/css/main.5e7fa4fe.css.map",
-    "main.0bc0dfc4.js.map": "/trivia/static/js/main.0bc0dfc4.js.map"
+    "main.css": "/Trivia-Game/static/css/main.9f83d706.css",
+    "main.js": "/Trivia-Game/static/js/main.0bc0dfc4.js",
+    "static/media/its_quiz_time.jpg": "/Trivia-Game/static/media/its_quiz_time.d5abcb56fb1a85f55175.jpg",
+    "static/media/background1.webp": "/Trivia-Game/static/media/background1.8a4c692885d6be864af9.webp",
+    "index.html": "/Trivia-Game/index.html",
+    "main.9f83d706.css.map": "/Trivia-Game/static/css/main.9f83d706.css.map",
+    "main.0bc0dfc4.js.map": "/Trivia-Game/static/js/main.0bc0dfc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e7fa4fe.css",
+    "static/css/main.9f83d706.css",
     "static/js/main.0bc0dfc4.js"
   ]
 }
