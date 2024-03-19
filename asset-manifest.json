@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mihaielagiurca/Trivia-Game/static/css/main.925f1173.css",
-    "main.js": "/mihaielagiurca/Trivia-Game/static/js/main.91494975.js",
-    "static/media/annie-spratt-zA7I5BtFbvw-unsplash.jpg": "/mihaielagiurca/Trivia-Game/static/media/annie-spratt-zA7I5BtFbvw-unsplash.e4786f28698b3dca5ffb.jpg",
-    "index.html": "/mihaielagiurca/Trivia-Game/index.html",
-    "main.925f1173.css.map": "/mihaielagiurca/Trivia-Game/static/css/main.925f1173.css.map",
-    "main.91494975.js.map": "/mihaielagiurca/Trivia-Game/static/js/main.91494975.js.map"
+    "main.css": "/Trivia-Game/static/css/main.ccc90600.css",
+    "main.js": "/Trivia-Game/static/js/main.91494975.js",
+    "static/media/annie-spratt-zA7I5BtFbvw-unsplash.jpg": "/Trivia-Game/static/media/annie-spratt-zA7I5BtFbvw-unsplash.e4786f28698b3dca5ffb.jpg",
+    "index.html": "/Trivia-Game/index.html",
+    "main.ccc90600.css.map": "/Trivia-Game/static/css/main.ccc90600.css.map",
+    "main.91494975.js.map": "/Trivia-Game/static/js/main.91494975.js.map"
   },
   "entrypoints": [
-    "static/css/main.925f1173.css",
+    "static/css/main.ccc90600.css",
     "static/js/main.91494975.js"
   ]
 }
